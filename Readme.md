@@ -109,7 +109,7 @@ References:
 - Install mysql -> For mac: brew install mysql or follow https://flaviocopes.com/mysql-how-to-install/
 - Run: mysql.server start
 - Install mysql-workbench -> https://www.mysql.com/products/workbench/
-- Install mysql-connector -> pip install mysql-connector
+- Install the Python connector -> pip install mysql-connector-python
 
 
 # System Requirements for Open AI API Execution
